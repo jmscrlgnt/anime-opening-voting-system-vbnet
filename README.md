@@ -30,7 +30,7 @@ A desktop-based voting system built with VB.NET that allows users to vote for th
 2. Restore NuGet packages if needed
 3. Run the project
 
-## 👨‍💻 Author
-James Carl Giente
-BS Computer Science Student
-Portfolio: [](https://jmscrlgnt.weebly.com/)
+## 👨‍💻 Author  
+James Carl Giente  
+BS Computer Science Student  
+Portfolio: https://jmscrlgnt.weebly.com/
