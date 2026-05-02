@@ -17,13 +17,13 @@ A desktop-based voting system built with VB.NET that allows users to vote for th
 
 ## 📸 Screenshots
 ### 🔐 Login Page
-![Login](screenshots/login.png)
+![Login](screenshots/login.jpg)
 ### 📝 Register Page
-![Register](screenshots/register.png)
+![Register](screenshots/register.jpg)
 ### 🧑‍💼 Admin Dashboard
-![Admin](screenshots/admin-dashboard.png)
+![Admin](screenshots/admin-dashboard.jpg)
 ### 🗳 Voting Page
-![Voting](screenshots/voting-page.png)
+![Voting](screenshots/voting-page.jpg)
 
 ## ⚙️ How to Run
 1. Open `AnimeOpeningVotingSystem.sln` in Visual Studio
